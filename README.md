@@ -1,2 +1,2 @@
 # DevelopingGamesInJava
-Examples in the book "Developing Games in Java"
+Rise of the DarkLord inside me

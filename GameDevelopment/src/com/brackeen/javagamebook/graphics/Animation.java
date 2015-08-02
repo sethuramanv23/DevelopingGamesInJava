@@ -1,4 +1,4 @@
-package Chapter2;
+package com.brackeen.javagamebook.graphics;
 
 import java.awt.Image;
 import java.util.ArrayList;
